@@ -7,7 +7,7 @@
 
 </div>
 
-## Full Stack Developer | AI Integration Specialist | Software Engineer
+## AI Augmented Developer
 
 > Building intelligent solutions that solve real-world problems through innovative technology
 
