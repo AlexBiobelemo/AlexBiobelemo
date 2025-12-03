@@ -11,13 +11,13 @@
 
 > Building intelligent solutions that solve real-world problems through innovative technology
 
-I'm a results-driven developer specializing in **AI-powered web applications** with a passion for creating tools that empower users and democratize access to advanced technology. From healthcare analytics to disaster warning systems, I architect end-to-end solutions that make a meaningful impact.
+I specialize in the art of bridging complex AI models and intuitive web applications, ensuring advanced technology feels simple and accessible to every user. I architect complete, end-to-end intelligent systems with one driving goal: to truly democratize capability. My focus is on creating measurable, human-centered impact, delivering high-stakes solutions ranging from predictive health insights to real-time disaster warning platforms.
 
 ---
 
 ## 💼 What I Do
 
--  **AI Integration**: Leveraging agents, Google Gemini, GPT-4, and Claude APIs to build intelligent applications
+-  **AI Integration**: Leveraging agents, Google Gemini, GPT-5.1, and Claude APIs to build intelligent applications
 -  **Full Stack Development**: Crafting seamless experiences from database to user interface
 -  **Data Analytics**: Building enterprise-grade platforms for data-driven decision making
 -  **Cybersecurity**: Developing security tools including deepfake detection and anomaly monitoring
@@ -37,6 +37,8 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -46,13 +48,16 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 ### AI & Machine Learning
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Grok xAI](https://img.shields.io/badge/Grok_xAI-171717?style=flat&logo=grok&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFC300?style=flat&logo=duckdb&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
@@ -62,11 +67,12 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 
 ###  AI-Powered Applications
 
-#### [Project-Sophia](https://github.com/AlexBiobelemo/Project-Sophia) | Developer Knowledge Management
+#### [Sophia-Code](https://github.com/AlexBiobelemo/Sophia-Code) | Developer Knowledge Management
 > Intelligent code snippet manager with AI-powered semantic search and generation
-- **Tech**: Flask, SQLAlchemy, Google Gemini API, Vector Embeddings
-- **Impact**: 70% reduction in code retrieval time
-- **Features**: AI code generation, line-by-line explanations, semantic search
+- **Backend**: Flask (Python)
+- **Database**: SQLite (SQLAlchemy ORM)
+- **Frontend**: HTML, CSS (Bootstrap), JavaScript
+- **AI Integration**: Google Gemini API for code generation, explanation, formatting, and tagging
 
 #### [Project-Theresa](https://github.com/AlexBiobelemo/Project-Theresa) | Resume Optimizer
 > AI-driven career application optimizer with ATS scoring and 8 professional templates
@@ -156,7 +162,7 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 #### [Project-Opulus](https://github.com/AlexBiobelemo/Project-Opulus) | Social Media Algorithm Simulator
 > Interactive platform for visualizing and experimenting with content distribution algorithms
 - **Tech**: TypeScript, React, D3.js, Graph Algorithms, WebSocket
-- **Impact**: 500+ students served, 50K+ interactions/second
+- **Impact**: 50K+ interactions/second
 - **Features**: Real-time visualization, A/B testing, filter bubble analysis
 
 ---
@@ -175,12 +181,13 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 ## 🏆 Key Achievements
 
 -  **13+ Production-Ready Projects** spanning healthcare, education, security, and civic tech
--  **Zero-Cost Innovation**: Built enterprise-grade analytics suite with $0 budget
+-  **AI Productivity Enhancement**: Built a powerful, custom-built AI development tool designed to accelerate technical readiness and pattern recognition.
+-  **Accelerated DSA Pattern Identification**: Solved 300+ core problems in a month by strategically leveraging AI tooling for rapid debugging and pattern reinforcement.
 -  **Resource-Constrained Development**: Delivered solutions optimized for 4GB RAM and intermittent power
--  **AI Integration Expert**: Successfully integrated Gemini, GPT-4, Claude, and Ollama APIs
+-  **AI Integration Expert**: Successfully integrated Gemini, GPT-5, Claude, and Ollama APIs
 -  **Comprehensive Documentation**: Created extensive READs with tutorials and developer guides
 -  **Security-First**: Implemented HIPAA compliance, CSRF protection, and encryption standards
--  **Accessibility Champion**: Built applications with high-contrast themes and screen reader support
+
 
 ---
 
@@ -194,9 +201,8 @@ I'm a results-driven developer specializing in **AI-powered web applications** w
 
 -  Building AI-powered applications that solve real-world challenges
 -  Exploring advanced LLM integration and prompt engineering techniques
--  Open to collaborating on social impact and civic technology projects
+-  Open to collaborating on projects
 -  Ask me about AI integration, full-stack development, or building on limited resources
--  Fun fact: Built a three-tier enterprise analytics platform in 10 days during power outages
 
 ---
 
@@ -251,4 +257,4 @@ I believe in giving back to the community. Most projects are open-source and doc
 
 ---
 
-*Last Updated: October 2025*
+*Last Updated: December 2025*
