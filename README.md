@@ -3,6 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alex-alagoa-biobelemo)
+[![My-Website](https://img.shields.io/badge/Website-Connect-orange?style=for-the-badge&logo=linkedin)](https://alexar.netlify.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=safari)](https://github.com/AlexBiobelemo)
 
 </div>
@@ -210,8 +211,8 @@ I specialize in the art of bridging complex AI models and intuitive web applicat
 
 -  **LinkedIn**: [alex-alagoa-biobelemo](https://linkedin.com/in/alex-alagoa-biobelemo)
 -  **GitHub**: [@AlexBiobelemo](https://github.com/AlexBiobelemo)
+-  **My Website**: [Visit](https://alexar.netlify.app)
 -  **Location**: Bayelsa State, Nigeria
-
 ---
 
 ## 🤝 Open Source Contribution
@@ -257,4 +258,4 @@ I believe in giving back to the community. Most projects are open-source and doc
 
 ---
 
-*Last Updated: December 2025*
+*Last Updated: January 2026*
